@@ -1,0 +1,29 @@
+https://retoolapi.dev/6AY4mD/expo
+See all available endpoints here (generated with json-server).
+Endpoint URL
+
+HTTP method endpoints
+
+GET
+/6AY4mD/expo
+
+GET filter
+/6AY4mD/expo?nombre=value
+
+GET by id
+/6AY4mD/expo/1
+
+GET paginate
+/6AY4mD/expo?_page=2&_limit=10
+
+POST
+/6AY4mD/expo
+
+PUT
+/6AY4mD/expo/1
+
+PATCH
+/6AY4mD/expo/1
+
+DELETE
+/6AY4mD/expo/1
